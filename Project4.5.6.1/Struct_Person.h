@@ -6,4 +6,5 @@ struct Person
 {
 	string name, secondname, surname;
 	int age;
+	double weight;
 };
