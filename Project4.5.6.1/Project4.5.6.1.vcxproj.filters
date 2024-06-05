@@ -21,9 +21,15 @@
     <ClCompile Include="Settings.h">
       <Filter>Файлы заголовков</Filter>
     </ClCompile>
+    <ClCompile Include="PrintPars.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Struct_Person.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="PrintPars.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
