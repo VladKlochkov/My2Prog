@@ -5,3 +5,5 @@
 using namespace std;
 
 void printPersonPars(Person p);
+
+void printPersonFIO(Person p);
