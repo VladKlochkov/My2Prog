@@ -7,3 +7,5 @@ using namespace std;
 void printPersonFIO(Person p);
 
 void printPersonAge(Person p);
+
+void printPersonWeight(Person p);
